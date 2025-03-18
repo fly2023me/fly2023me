@@ -16,7 +16,8 @@
 ## 🌟 GitHub Overview
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fly2023me&show_icons=true&hide_border=true&bg_color=ffffff&title_color=2F80ED&icon_color=4C71F2&text_color=434D58" />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fly2023me&bg_color=ffffff&title_color=2F80ED&text_color=434D58&hide_border=true" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fly2023me&bg_color=ffffff&title_color=2F80ED&text_color=434D58&hide_border=true&v=1" />
+  
 </div>
 
 ## 💻 Tech Stack
