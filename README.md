@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! 👋 I'm @fly2023me</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=2000&deleteSpeed=50&color=32CD32&center=true&vCenter=true&width=1200&lines=Passionate+about+Computer+Vision;Learning+ROS+%26+AI+Navigation;Building+Smart+AI-Powered+Vehicles!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=3000&deleteSpeed=30&color=32CD32&center=true&vCenter=true&width=1300&lines=Passionate+about+Computer+Vision;Learning+ROS+%26+AI+Navigation;Building+Smart+AI-Powered+Vehicles!" />
 </p>
 
 ---
@@ -15,10 +15,9 @@
 ---
 
 ## 🌟 GitHub Overview
-
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fly2023me&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=fly2023me&theme=tokyonight" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fly2023me&theme=tokyonight" />
 </div>
 
 ---
@@ -37,7 +36,7 @@
 
 ## 🔥 GitHub Activity
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fly2023me&theme=react-dark&hide_border=true&area=true">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fly2023me&theme=react-dark&hide_border=true&area=true&hide_title=true&height=200" />
 </div>
 
 ---
