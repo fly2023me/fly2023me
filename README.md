@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! 👋 I'm @fly2023me</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=32CD32&center=true&vCenter=true&width=1000&lines=Passionate+about+Computer+Vision;Learning+ROS+%26+AI+Navigation;Building+Smart+AI-Powered+Vehicles!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=2000&deleteSpeed=50&color=32CD32&center=true&vCenter=true&width=1200&lines=Passionate+about+Computer+Vision;Learning+ROS+%26+AI+Navigation;Building+Smart+AI-Powered+Vehicles!" />
 </p>
 
 ---
