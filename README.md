@@ -12,16 +12,20 @@
 🤝 **Looking to Collaborate:** `Autonomous Robots` & `AI Vision Projects`  
 
 
-## 🌟 GitHub Overview
+## 🎯 Latest Projects
+🚗 **[AI Smart Car](#)** - AI-powered **autonomous vehicle** model using computer vision  
+🤖 **[ROS Navigation](#)** - Implementing **SLAM & AI-based path planning**  
+🎮 **[Deep Learning Vision](#)** - Object **detection & tracking** using neural networks  
+
+
 ## 🌟 GitHub Overview
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fly2023me&cache_seconds=1800&show_icons=true&hide_border=true&bg_color=ffffff&title_color=2F80ED&icon_color=4C71F2&text_color=434D58&v=1" />
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fly2023me&cache_seconds=1800&bg_color=ffffff&title_color=2F80ED&text_color=434D58&hide_border=true&v=1" />
-  
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fly2023me&cache_seconds=1800&bg_color=ffffff&title_color=2F80ED&text_color=434D58&hide_border=true&v=1" /> 
 </div>
 
-## 💻 Tech Stack
 
+## 💻 Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
@@ -35,12 +39,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=fly2023me&hide_border=true&area=true&bg_color=ffffff&color=2F80ED&line=4C71F2&point=2F80ED&area_color=4C71F2&area_opacity=0.1&title_color=2F80ED"/>
 </div>
 
----
-
-## 🎯 Latest Projects
-🚗 **[AI Smart Car](#)** - AI-powered **autonomous vehicle** model using computer vision  
-🤖 **[ROS Navigation](#)** - Implementing **SLAM & AI-based path planning**  
-🎮 **[Deep Learning Vision](#)** - Object **detection & tracking** using neural networks  
 
 ## 📫 Connect with Me
 <p align="center">
@@ -48,6 +46,7 @@
   <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/fly2023me"><img src="https://img.shields.io/github/followers/fly2023me?label=Follow&style=social"></a>
 </p>
+
 
 ## 🌍 Visitor Count & Stars
 <div align="center">
